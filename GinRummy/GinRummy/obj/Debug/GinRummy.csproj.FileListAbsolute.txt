@@ -1,0 +1,10 @@
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\bin\Debug\GinRummy.exe.config
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\bin\Debug\GinRummy.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\bin\Debug\GinRummy.pdb
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\obj\Debug\GinRummy.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\obj\Debug\GinRummy.Form1.resources
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\obj\Debug\GinRummy.Properties.Resources.resources
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\obj\Debug\GinRummy.csproj.GenerateResource.Cache
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\obj\Debug\GinRummy.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\obj\Debug\GinRummy.pdb
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummy\GinRummy\obj\Debug\GinRummy.Form2.resources

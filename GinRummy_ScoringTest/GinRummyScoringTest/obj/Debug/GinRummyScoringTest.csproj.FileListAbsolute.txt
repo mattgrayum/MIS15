@@ -1,0 +1,6 @@
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummyScoringTest\GinRummyScoringTest\bin\Debug\GinRummyScoringTest.exe.config
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummyScoringTest\GinRummyScoringTest\obj\Debug\GinRummyScoringTest.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummyScoringTest\GinRummyScoringTest\bin\Debug\GinRummyScoringTest.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummyScoringTest\GinRummyScoringTest\bin\Debug\GinRummyScoringTest.pdb
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummyScoringTest\GinRummyScoringTest\obj\Debug\GinRummyScoringTest.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\GinRummyScoringTest\GinRummyScoringTest\obj\Debug\GinRummyScoringTest.pdb

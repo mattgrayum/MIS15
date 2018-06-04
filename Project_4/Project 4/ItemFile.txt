@@ -1,0 +1,6 @@
+15324|Packaged|3.38|Cheerios|General Mills
+15362|Packaged|3.73|Rolled Oats|Quaker
+19429|Packaged|12.50|Granulated Sugar|B&H
+67256|Fresh|1.46|Bananas|Dole
+63851|Fresh|2.29|Apples|Chelan
+88888|Fresh|12|kjhg|tryuio

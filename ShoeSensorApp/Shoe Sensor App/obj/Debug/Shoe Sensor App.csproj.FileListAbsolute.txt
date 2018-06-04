@@ -1,0 +1,19 @@
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\bin\Debug\Shoe Sensor App.exe.config
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\bin\Debug\Shoe Sensor App.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\bin\Debug\Shoe Sensor App.pdb
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe_Sensor_App.Form1.resources
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe_Sensor_App.Properties.Resources.resources
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.csproj.GenerateResource.Cache
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.pdb
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\bin\Debug\Shoe Sensor App.exe.config
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\bin\Debug\Shoe Sensor App.exe
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\bin\Debug\Shoe Sensor App.pdb
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe_Sensor_App.Form1.resources
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe_Sensor_App.Properties.Resources.resources
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.csproj.GenerateResource.cache
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.exe
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\Shoe Sensor App\Shoe Sensor App\obj\Debug\Shoe Sensor App.pdb

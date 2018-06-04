@@ -1,0 +1,13 @@
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\InClassExcercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\InClassExcercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\InClassExcercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\InClassExcercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\InClassExcercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Matthew\Dropbox\MATT\SCHOOL\CSUS\FALL 2016\MIS 15\InClassExcercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\InClassExcercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\InClassExcercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\InClassExcercises\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\InClassExcercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\InClassExcercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\InClassExcercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Matthew Grayum\Dropbox\MATT\SCHOOL\CSUS\FALL_2016\MIS_15\InClassExcercises\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
